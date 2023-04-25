@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-loopstudios-landing-page-main/static/css/main.964fdded.css",
-    "main.js": "/react-loopstudios-landing-page-main/static/js/main.59c123db.js",
+    "main.css": "/react-loopstudios-landing-page-main/static/css/main.f63e3f75.css",
+    "main.js": "/react-loopstudios-landing-page-main/static/js/main.d04affaa.js",
     "index.html": "/react-loopstudios-landing-page-main/index.html",
-    "main.964fdded.css.map": "/react-loopstudios-landing-page-main/static/css/main.964fdded.css.map",
-    "main.59c123db.js.map": "/react-loopstudios-landing-page-main/static/js/main.59c123db.js.map"
+    "main.f63e3f75.css.map": "/react-loopstudios-landing-page-main/static/css/main.f63e3f75.css.map",
+    "main.d04affaa.js.map": "/react-loopstudios-landing-page-main/static/js/main.d04affaa.js.map"
   },
   "entrypoints": [
-    "static/css/main.964fdded.css",
-    "static/js/main.59c123db.js"
+    "static/css/main.f63e3f75.css",
+    "static/js/main.d04affaa.js"
   ]
 }
