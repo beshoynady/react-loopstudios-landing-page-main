@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-loopstudios-landing-page-main/static/css/main.964fdded.css",
+    "main.js": "/react-loopstudios-landing-page-main/static/js/main.59c123db.js",
+    "index.html": "/react-loopstudios-landing-page-main/index.html",
+    "main.964fdded.css.map": "/react-loopstudios-landing-page-main/static/css/main.964fdded.css.map",
+    "main.59c123db.js.map": "/react-loopstudios-landing-page-main/static/js/main.59c123db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.59c123db.js"
+  ]
+}
