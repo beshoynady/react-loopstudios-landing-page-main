@@ -1,10 +1,11 @@
 import './App.css';
+import Main from './component/main/Main';
 
 function App() {
   return (
-    <div className="App">
-      <h1>beshoy nady</h1>
-    </div>
+    <ReactFragment>
+      <Main/>
+    </ReactFragment>
   );
 }
 
