@@ -1,4 +1,6 @@
 # Frontend Mentor - Loopstudios landing page
+visit site
+https://beshoynady.github.io/react-loopstudios-landing-page-main/
 
 ![Design preview for the Loopstudios landing page coding challenge](./design/desktop-preview.jpg)
 
